@@ -11,7 +11,7 @@ for the schematic and PCB.
 I found inspiration from a 3-LED chaser circuit online and simplified 
 it down to 2 transistors and 2 LEDs. The circuit works by using two 
 NPN transistors that alternate switching on and off, controlled by RC 
-timing components — resistors and capacitors that charge and discharge 
+timing components  resistors and capacitors that charge and discharge 
 to control the timing of each blink.
 
 My browser crashed mid-way through building the circuit in Falstad and 
