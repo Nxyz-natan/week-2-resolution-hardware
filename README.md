@@ -8,8 +8,8 @@ astable multivibrator built from two NPN transistors and RC timing components.
 FALSTAD: <img width="989" height="515" alt="Screenshot 2026-05-29 at 10 49 25 PM" src="https://github.com/user-attachments/assets/48c865f0-db15-4d75-b2fd-2eae672900ac" />
 
 
-
-DEMO GIF: <img width="800" height="450" alt="CleanShot 2026-05-29 at 22 49 59" src="https://github.com/user-attachments/assets/de4f333e-d9b5-4f37-8c73-debad2a94b0d" />
+<img width="800" height="450" alt="CleanShot 2026-05-29 at 22 49 59" src="https://github.com/user-attachments/assets/de4f333e-d9b5-4f37-8c73-debad2a94b0d" />
+DEMO GIF: 
 
 
 
